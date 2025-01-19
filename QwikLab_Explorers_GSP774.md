@@ -10,11 +10,11 @@
 ### Run the following Commands in CloudShell
 
 ```
-curl -LO raw.githubusercontent.com/Titash-shil/Analyze-Customer-Reviews-with-Gemini-Using-Python-Notebooks-GSP1249/refs/heads/main/qwiklab_explorers_gsp1249.sh
+curl -LO raw.githubusercontent.com/Titash-shil/Fraud-Detection-on-Financial-Transactions-with-Machine-Learning-on-Google-Cloud-GSP774/refs/heads/main/qwiklab_explorers_gsp774.sh
 
-sudo chmod +x qwiklab_explorers_gsp1249.sh
+sudo chmod +x qwiklab_explorers_gsp774.sh
 
-./qwiklab_explorers_gsp1249.sh
+./qwiklab_explorers_gsp774.sh
 ```
 
 ---
